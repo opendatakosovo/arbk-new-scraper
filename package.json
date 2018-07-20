@@ -1,0 +1,23 @@
+{
+  "name": "arbk-new-scraper",
+  "version": "1.0.0",
+  "description": "A Node.js scraper for scraping, processing and importing data from ARBK",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorronzherka/arbk-new-scraper.git"
+  },
+  "author": "Dorron Zherka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorronzherka/arbk-new-scraper/issues"
+  },
+  "homepage": "https://github.com/dorronzherka/arbk-new-scraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "puppeteer": "^1.6.0"
+  }
+}
